@@ -1,1 +1,0 @@
-#El primer programa con interfaz visual 
